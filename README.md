@@ -11,4 +11,4 @@ In conclusion, we saw some variations in weekly sales based on departments and s
 
 This analysis was completed solely using the 2010 sales data. This analysis is a snapshot in time and could be improved in the future by expanding our data to include more sales information spanning a larger range of dates. Avenues for further research also include figuring out which department number corresponds to which department type and figuring out the exact location of the store numbers to give us more insight.
 
-The article for this project can be read at https://www.linkedin.com/posts/stephanie-lao-5a43151b3_activity-6711666166705782784-UfR7
+The article for this project can be read at https://www.linkedin.com/pulse/how-do-holidays-affect-retail-sales-stephanie-lao/?trackingId=lqm3UpyVQPK6IbcvOSfhhg%3D%3D
